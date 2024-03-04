@@ -1,2 +1,2 @@
-# General Ignition Info
-This repository is meant to hold some basic Ignition related info to be used by the owner.
+# General Ignition Logos
+This repository is meant to hold basic Ignition (by Inductive Automation) logos. These logos came directly from IA
